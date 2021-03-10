@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en GifGridItem   Debe mostrar el shallow en consola 1`] = `
+<div
+  className="card animate__backInDown animate__delay-3s"
+>
+  <img
+    alt="un titulo"
+    src="https://localhost/pip.js"
+  />
+  <p>
+    un titulo
+  </p>
+</div>
+`;
