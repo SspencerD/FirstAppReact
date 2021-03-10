@@ -1,0 +1,51 @@
+
+
+*{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:#fff;
+}
+
+body{
+
+  padding: 65px;
+  background-color: #011126;
+}
+button{
+  
+  color:#000;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+  font-size: 1.2rem;
+  color:#fff;
+  width: 100%;
+  background-color: #6588A6;
+  border-radius: 6px, 9px,9px,9px, #fff;
+}
+
+.card-grid{
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card{
+  align-content: center;
+  border: 2px solid #035AA6;
+  border-radius: 10px #035AA6;
+  overflow: hidden;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  max-width: auto;
+}
+.card p {
+  padding: auto;
+  text-align: center;
+}
+.card img {
+  max-height: 200px;
+  padding: 10px;
+  align-content: center;
+}
